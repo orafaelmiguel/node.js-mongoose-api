@@ -12,7 +12,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/orafaelmiguel/API-REST-with-NodeJs-MongoDB-.git>
+$ git clone https://github.com/orafaelmiguel/API-REST-with-NodeJs-MongoDB-.git
 
 # Instale as dependências
 $ npm install
