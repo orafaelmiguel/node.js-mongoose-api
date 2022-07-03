@@ -1,6 +1,6 @@
 ### API REST com Node.js & MongoDB (mongoose)
 
-API integrada com banco de dados utilizando CRUD, modelo HTTP no Back End. 
+API REST integrada com banco de dados utilizando CRUD, modelo HTTP no Back End. 
 
 ### Pré-requisitos
 
