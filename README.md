@@ -23,7 +23,7 @@ $ npm start
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias | Ferramentas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
