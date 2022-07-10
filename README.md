@@ -36,4 +36,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/orafaelmiguel">
- <sub><b>Rafael Miguel</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="t">🚀</a>
+ <sub><b>Rafael Miguel</b></sub></a> <a href="https://github.com/orafaelmiguel" title="t">🚀</a>
